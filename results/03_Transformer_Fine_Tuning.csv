@@ -1,0 +1,2 @@
+modelo,accuracy,F1_macro,loss,epochs,params,training_time_sec,eval_time_sec
+Transformer (fine-tune),0.8924230145867099,0.892394037409779,0.3147425055503845,2,66955010,414.0,10.8
