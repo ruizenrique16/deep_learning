@@ -7,14 +7,14 @@ El objetivo es comparar el desempeño de arquitecturas clásicas (CNN, LSTM) fre
 
 ## Estructura del proyecto
 
-├── notebooks/ # Notebooks con los experimentos principales
-│ ├── 01_CNN_clasificacion.ipynb
-│ ├── 02_LSTM_vs_Transformer.ipynb
-│ └── 03_Transformer_Fine_Tuning.ipynb
-│
-├── results/ # Resultados generados por cada notebook (CSV, métricas, gráficas)
-│
-└── docs/ # Reportes técnicos en formato Markdown (.md)
+- notebooks/ # Notebooks con los experimentos principales
+    . 01_CNN_clasificacion.ipynb
+    . 02_LSTM_vs_Transformer.ipynb
+    . 03_Transformer_Fine_Tuning.ipynb
+
+- results/ # Resultados generados por cada notebook (CSV, métricas, gráficas)
+
+- docs/ # Reportes técnicos en formato Markdown (.md)
 
 
 -----------------------------------------------------------------------------------------------------
@@ -76,7 +76,7 @@ Ejecutar cada notebook en orden:
 
 03_Transformer_Fine_Tuning.ipynb
 
-✒️ Autor
+Autor
 Pedro Enrique Ruiz Riveros
-📧 Contacto: [enriq16@fpuna.edu.py]
-📚 Portafolio de proyectos de Deep Learning y NLP
+Contacto: [enriq16@fpuna.edu.py]
+Portafolio de proyectos de Deep Learning y NLP
